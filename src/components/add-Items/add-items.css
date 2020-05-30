@@ -1,0 +1,8 @@
+.item-add-form {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px; }
+  .item-add-form .form-control {
+    margin-right: 20px; }
+
+/*# sourceMappingURL=add-items.css.map */
